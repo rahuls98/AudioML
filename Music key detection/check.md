@@ -5,6 +5,7 @@
 - http://millionsongdataset.com/pages/tutorial/
 - http://millionsongdataset.com/pages/field-list/
 - http://millionsongdataset.com/sites/default/files/tutorial1.py.txt
+- https://github.com/AumitLeon/million-songs
 
 # Dataset to work with
 ### Fields required
