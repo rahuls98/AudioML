@@ -6,5 +6,9 @@
 - http://millionsongdataset.com/pages/field-list/
 - http://millionsongdataset.com/sites/default/files/tutorial1.py.txt
 
-## Dataset fields required 
+# Dataset to work with
+### Fields required
 - key, key confidence, mode, mode confidence, segments confidence, segments pitches, title
+
+### Create dataset
+- Using pig : https://stackoverflow.com/questions/36864635/how-to-load-export-csv-tsv-files-from-pig-to-pandas
