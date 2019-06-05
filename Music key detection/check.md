@@ -12,4 +12,4 @@
 - key, key confidence, mode, mode confidence, segments confidence, segments pitches, title
 
 ### Create dataset
-- Using pig : https://stackoverflow.com/questions/36864635/how-to-load-export-csv-tsv-files-from-pig-to-pandas
+- https://github.com/manasreldin/Song-Popularity-Predictor
