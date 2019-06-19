@@ -2,3 +2,5 @@ Objective : Using Deep learning and the Million Song subset to try and create a 
 
 Dataset : The Million song subset
 The corresponding Python code available on the website was used to convert the data into a suitable format to work with.
+
+Issue : Array being stored as string, resulting in truncation of data.
